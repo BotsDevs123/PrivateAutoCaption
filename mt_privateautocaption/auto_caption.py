@@ -14,7 +14,7 @@ CAPTION_TEXT = """
 • @Night_MovieZ
 • @MovieZ_Store
 
-<u><b>🤖 Movies Bot 🤖</b><u>
+<u><b>🤖 Movies Bot 🤖</b></u>
 
 • @LuciferMoringstar_Robot
 • @DonLee_Robot
